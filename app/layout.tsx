@@ -1,7 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Space_Grotesk, DM_Sans } from "next/font/google"
-import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 import { Navigation } from "@/components/navigation"
 import { Suspense } from "react"
@@ -36,7 +35,6 @@ export default function RootLayout({
           <Navigation />
           {children}
         </Suspense>
-        <Analytics />
       </body>
     </html>
   )

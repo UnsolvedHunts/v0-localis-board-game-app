@@ -27,31 +27,33 @@ export function GameGrid() {
 
   return (
     <>
-      <div className="grid grid-cols-5 gap-3 md:gap-4">
-        {rows.map((row) =>
-          cols.map((col) => {
-            const cellId = getCellId(row, col)
-            const locations = locationsData[cellId]
-            const locationCount = locations?.length || 0
+      <div className="flex justify-center">
+        <div className="grid grid-cols-5 gap-3 md:gap-4 max-w-4xl w-full mx-auto">
+          {rows.map((row) =>
+            cols.map((col) => {
+              const cellId = getCellId(row, col)
+              const locations = locationsData[cellId]
+              const locationCount = locations?.length || 0
 
-            return (
-              <Card
-                key={cellId}
-                className="aspect-square cursor-pointer transition-all hover:scale-105 hover:shadow-lg hover:border-primary"
-                onClick={() => handleCellClick(cellId)}
-              >
-                <div className="flex h-full flex-col items-center justify-center p-4 text-center">
-                  <span className="mb-2 font-[family-name:var(--font-space-grotesk)] text-2xl font-bold text-primary">
-                    {cellId}
-                  </span>
-                  <span className="text-xs text-muted-foreground">
-                    {locationCount} {locationCount > 1 ? "lieux" : "lieu"}
-                  </span>
-                </div>
-              </Card>
-            )
-          }),
-        )}
+              return (
+                <Card
+                  key={cellId}
+                  className="aspect-square cursor-pointer transition-all hover:scale-105 hover:shadow-lg hover:border-primary"
+                  onClick={() => handleCellClick(cellId)}
+                >
+                  <div className="flex h-full flex-col items-center justify-center p-4 text-center">
+                    <span className="mb-2 font-[family-name:var(--font-space-grotesk)] text-2xl font-bold text-primary">
+                      {cellId}
+                    </span>
+                    <span className="text-xs text-muted-foreground">
+                      {locationCount} {locationCount > 1 ? "lieux" : "lieu"}
+                    </span>
+                  </div>
+                </Card>
+              )
+            }),
+          )}
+        </div>
       </div>
 
       {selectedCell && (

@@ -3,7 +3,7 @@ import { GameGrid } from "@/components/game-grid"
 export default function LieuxPage() {
   return (
     <main className="min-h-screen py-12">
-      <div className="container">
+      <div className="container mx-auto px-4">
         <div className="mx-auto max-w-6xl">
           <h1 className="mb-4 font-[family-name:var(--font-space-grotesk)] text-4xl font-bold text-center">
             Les lieux du jeu
