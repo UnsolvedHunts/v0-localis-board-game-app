@@ -1,0 +1,156 @@
+{
+  "A1": [
+    {
+      "name": "Tour Eiffel",
+      "description": "Monument emblématique de Paris, construit par Gustave Eiffel pour l'Exposition universelle de 1889. Haute de 330 mètres, elle est devenue le symbole de la France. <a href='https://fr.wikipedia.org/wiki/Tour_Eiffel' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>En savoir plus</a>"
+    },
+    {
+      "name": "Arc de Triomphe",
+      "description": "Monument parisien commandé par Napoléon en 1806 pour célébrer les victoires de l'armée française. <a href='https://fr.wikipedia.org/wiki/Arc_de_triomphe_de_l%27%C3%89toile' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>Source</a>"
+    }
+  ],
+  "A2": [
+    {
+      "name": "Château de Versailles",
+      "description": "Résidence royale construite sous Louis XIV, symbole de l'absolutisme français. Le château et ses jardins sont classés au patrimoine mondial de l'UNESCO. <a href='https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Versailles' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>Plus d'infos</a>"
+    }
+  ],
+  "A3": [
+    {
+      "name": "Mont Saint-Michel",
+      "description": "Abbaye bénédictine située sur un îlot rocheux en Normandie. Chef-d'œuvre de l'architecture médiévale, c'est l'un des sites les plus visités de France."
+    }
+  ],
+  "A4": [
+    {
+      "name": "Cathédrale Notre-Dame de Paris",
+      "description": "Chef-d'œuvre de l'architecture gothique, construite entre 1163 et 1345. Endommagée par un incendie en 2019, elle est en cours de restauration."
+    }
+  ],
+  "A5": [
+    {
+      "name": "Palais des Papes",
+      "description": "Situé à Avignon, c'est le plus grand palais gothique du monde. Résidence des papes au XIVe siècle."
+    }
+  ],
+  "B1": [
+    {
+      "name": "Château de Chambord",
+      "description": "Chef-d'œuvre de la Renaissance française, construit sous François Ier. Son escalier à double révolution est attribué à Léonard de Vinci."
+    }
+  ],
+  "B2": [
+    {
+      "name": "Pont du Gard",
+      "description": "Aqueduc romain construit au Ier siècle pour alimenter Nîmes en eau. Monument antique le mieux conservé de France."
+    }
+  ],
+  "B3": [
+    {
+      "name": "Grotte de Lascaux",
+      "description": "Grotte ornée de peintures préhistoriques datant d'environ 17 000 ans. Découverte en 1940, elle est fermée au public mais une réplique est visitable."
+    }
+  ],
+  "B4": [
+    {
+      "name": "Carcassonne",
+      "description": "Cité médiévale fortifiée dans l'Aude. Ses remparts et son château font d'elle la plus grande forteresse d'Europe."
+    }
+  ],
+  "B5": [
+    {
+      "name": "Arènes de Nîmes",
+      "description": "Amphithéâtre romain construit vers l'an 100. L'un des mieux conservés du monde romain, il accueille encore des spectacles aujourd'hui."
+    }
+  ],
+  "C1": [
+    {
+      "name": "Cathédrale de Reims",
+      "description": "Lieu de sacre des rois de France pendant plus de 1000 ans. Chef-d'œuvre de l'art gothique."
+    }
+  ],
+  "C2": [
+    {
+      "name": "Château de Chenonceau",
+      "description": "Surnommé le 'château des Dames', il enjambe le Cher. Joyau de la Renaissance française."
+    }
+  ],
+  "C3": [
+    {
+      "name": "Basilique du Sacré-Cœur",
+      "description": "Située au sommet de la butte Montmartre à Paris, construite entre 1875 et 1914. Son dôme offre une vue panoramique sur Paris."
+    }
+  ],
+  "C4": [
+    {
+      "name": "Château d'If",
+      "description": "Forteresse située sur une île au large de Marseille. Rendue célèbre par le roman 'Le Comte de Monte-Cristo' d'Alexandre Dumas."
+    }
+  ],
+  "C5": [
+    {
+      "name": "Palais des Beaux-Arts de Lille",
+      "description": "L'un des plus grands musées de France après le Louvre. Collection exceptionnelle de peintures européennes."
+    }
+  ],
+  "D1": [
+    {
+      "name": "Cathédrale de Strasbourg",
+      "description": "Chef-d'œuvre de l'art gothique avec sa flèche unique de 142 mètres. Son horloge astronomique est célèbre dans le monde entier."
+    }
+  ],
+  "D2": [
+    {
+      "name": "Château de Fontainebleau",
+      "description": "Résidence des souverains français depuis François Ier jusqu'à Napoléon III. Témoin de huit siècles d'histoire de France."
+    }
+  ],
+  "D3": [
+    {
+      "name": "Abbaye du Mont-Saint-Michel",
+      "description": "Merveille de l'Occident, cette abbaye bénédictine domine la baie. Lieu de pèlerinage depuis le Moyen Âge."
+    }
+  ],
+  "D4": [
+    {
+      "name": "Château de Villandry",
+      "description": "Célèbre pour ses jardins Renaissance à la française, considérés parmi les plus beaux d'Europe."
+    }
+  ],
+  "D5": [
+    {
+      "name": "Basilique de Vézelay",
+      "description": "Haut lieu de la chrétienté médiévale, point de départ d'un des chemins de Saint-Jacques-de-Compostelle."
+    }
+  ],
+  "E1": [
+    {
+      "name": "Château de Pierrefonds",
+      "description": "Château médiéval restauré par Viollet-le-Duc au XIXe siècle. Exemple remarquable de l'architecture néo-gothique."
+    }
+  ],
+  "E2": [
+    {
+      "name": "Palais Idéal du Facteur Cheval",
+      "description": "Monument unique construit par un facteur pendant 33 ans (1879-1912). Chef-d'œuvre de l'architecture naïve."
+    }
+  ],
+  "E3": [
+    {
+      "name": "Château de Haut-Kœnigsbourg",
+      "description": "Château fort alsacien perché à 757 mètres d'altitude. Restauré au début du XXe siècle, il offre une vue imprenable sur la plaine d'Alsace."
+    }
+  ],
+  "E4": [
+    {
+      "name": "Citadelle de Besançon",
+      "description": "Chef-d'œuvre de Vauban, ingénieur militaire de Louis XIV. Inscrite au patrimoine mondial de l'UNESCO."
+    }
+  ],
+  "E5": [
+    {
+      "name": "Château d'Angers",
+      "description": "Forteresse médiévale abritant la célèbre Tenture de l'Apocalypse, le plus grand ensemble de tapisseries médiévales au monde."
+    }
+  ]
+}
