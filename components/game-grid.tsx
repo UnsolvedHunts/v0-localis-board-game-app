@@ -18,7 +18,10 @@ export function GameGrid() {
   }
 
   const handleCellClick = (cellId: CellId) => {
-    setSelectedCell(cellId)
+    const locations = locationsData[cellId]
+    if (locations && locations.length > 0) {
+      setSelectedCell(cellId)
+    }
   }
 
   const handleCloseModal = () => {
@@ -34,11 +37,16 @@ export function GameGrid() {
               const cellId = getCellId(col, row)
               const locations = locationsData[cellId]
               const locationCount = locations?.length || 0
+              const isClickable = locationCount > 0
 
               return (
                 <Card
                   key={cellId}
-                  className="aspect-square cursor-pointer transition-all hover:scale-105 hover:shadow-lg hover:border-primary"
+                  className={`aspect-square transition-all ${
+                    isClickable
+                      ? "cursor-pointer hover:scale-105 hover:shadow-lg hover:border-primary"
+                      : "cursor-not-allowed opacity-50"
+                  }`}
                   onClick={() => handleCellClick(cellId)}
                 >
                   <div className="flex h-full flex-col items-center justify-center p-4 text-center">
