@@ -1,704 +1,156 @@
 {
+  "A1": [
+    {
+      "name": "Tour Eiffel",
+      "description": "Monument emblématique de Paris, construit par Gustave Eiffel pour l'Exposition universelle de 1889. Haute de 330 mètres, elle est devenue le symbole de la France. <a href='https://fr.wikipedia.org/wiki/Tour_Eiffel' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>En savoir plus</a>"
+    },
+    {
+      "name": "Arc de Triomphe",
+      "description": "Monument parisien commandé par Napoléon en 1806 pour célébrer les victoires de l'armée française. <a href='https://fr.wikipedia.org/wiki/Arc_de_triomphe_de_l%27%C3%89toile' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>Source</a>"
+    }
+  ],
   "A2": [
     {
-      "name": "Brest",
-      "description": "Grande ville portuaire du Finistère, célèbre pour son arsenal et l’Océanopolis."
-    },
-    {
-      "name": "Cité du Ponant",
-      "description": "Surnom de Brest, orientée vers l’Atlantique (ville : Brest)."
-    },
-    {
-      "name": "Concarneau",
-      "description": "Ville du Finistère connue pour sa Ville Close et sa pêche."
-    },
-    {
-      "name": "Festival Interceltique",
-      "description": "Grand festival musical et culturel des nations celtiques à Lorient (ville : Lorient)."
-    },
-    {
-      "name": "Plus grand site mégalithique au monde",
-      "description": "Les alignements de Carnac rassemblent des milliers de menhirs en Bretagne (ville : Carnac)."
-    },
-    {
-      "name": "Pointe de Corsen",
-      "description": "Cap le plus occidental de la France métropolitaine, à Plouarzel (Finistère)."
-    },
-    {
-      "name": "Quimper",
-      "description": "Ville de Cornouaille en Bretagne, connue pour sa faïence et sa cathédrale Saint‑Corentin."
-    },
-    {
-      "name": "Vannes",
-      "description": "Ville bretonne du Morbihan au riche centre médiéval fortifié."
+      "name": "Château de Versailles",
+      "description": "Résidence royale construite sous Louis XIV, symbole de l'absolutisme français. Le château et ses jardins sont classés au patrimoine mondial de l'UNESCO. <a href='https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Versailles' target='_blank' rel='noopener noreferrer' class='text-primary hover:underline'>Plus d'infos</a>"
     }
   ],
   "A3": [
     {
-      "name": "Départ du Vendée Globe",
-      "description": "Course à la voile autour du monde en solitaire partant des Sables‑d’Olonne (Vendée)."
-    },
-    {
-      "name": "Ford Boyard",
-      "description": "Fort Boyard est une fortification maritime entre l’île d’Aix et l’île d’Oléron (Charente‑Maritime)."
-    },
-    {
-      "name": "Futuroscope",
-      "description": "Parc de loisirs technologique et scientifique situé près de Poitiers (commune : Chasseneuil‑du‑Poitou)."
-    },
-    {
-      "name": "La Rochelle",
-      "description": "Ville portuaire de Charente‑Maritime, marquée par les sièges du XVIIe siècle."
-    },
-    {
-      "name": "Niort",
-      "description": "Ville des Deux‑Sèvres, pôle de l’assurance (MAIF, MAAF, etc.)."
-    },
-    {
-      "name": "Victoire de Charles Martel",
-      "description": "La victoire de 732 contre les Omeyyades eut lieu près de Poitiers/Tours (région : Poitou‑Touraine)."
+      "name": "Mont Saint-Michel",
+      "description": "Abbaye bénédictine située sur un îlot rocheux en Normandie. Chef-d'œuvre de l'architecture médiévale, c'est l'un des sites les plus visités de France."
     }
   ],
   "A4": [
     {
-      "name": "Anciennement \"Burdigala\"",
-      "description": "Burdigala est l’ancien nom de Bordeaux (ville : Bordeaux)."
-    },
-    {
-      "name": "Bordeaux",
-      "description": "Grande ville de Gironde, capitale mondiale du vin."
-    },
-    {
-      "name": "Cinq Premiers Grands Crus Classés",
-      "description": "Les cinq premiers crus du classement de 1855 se trouvent dans le Médoc et à Sauternes (communes : Pauillac, Margaux, Saint‑Julien, etc.)."
-    },
-    {
-      "name": "Dax",
-      "description": "Ville thermale landaise réputée pour ses eaux chaudes et sa féria."
-    },
-    {
-      "name": "Dune du Pilat",
-      "description": "Plus haute dune d’Europe, sur le bassin d’Arcachon (Gironde)."
-    },
-    {
-      "name": "Ville d'où est originaire le personnage de Cyrano",
-      "description": "Cyrano de Bergerac, personnage littéraire, renvoie à la ville de Bergerac en Dordogne (ville : Bergerac)."
+      "name": "Cathédrale Notre-Dame de Paris",
+      "description": "Chef-d'œuvre de l'architecture gothique, construite entre 1163 et 1345. Endommagée par un incendie en 2019, elle est en cours de restauration."
     }
   ],
   "A5": [
     {
-      "name": "1e constitution démocratique de l'histoire moderne",
-      "description": "La Corse adopte en 1755 une constitution républicaine sous l’impulsion de Pascal Paoli (lieu : Corte)."
-    },
-    {
-      "name": "Ajaccio",
-      "description": "Chef‑lieu de la Corse‑du‑Sud, ville natale de Napoléon."
-    },
-    {
-      "name": "Bastia",
-      "description": "Grande ville de Haute‑Corse, ancien siège des gouverneurs génois."
-    },
-    {
-      "name": "Bataille de Ponte Novu",
-      "description": "Dernière bataille de l’indépendance corse en 1769, près de Ponte‑Novu (Haute‑Corse)."
-    },
-    {
-      "name": "Corte",
-      "description": "Ville de Haute‑Corse, ancienne capitale de l’île indépendante au XVIIIe siècle."
-    },
-    {
-      "name": "Les îles sanguinaires",
-      "description": "Archipel à l’ouest d’Ajaccio, réputé pour ses couchers de soleil (Corse‑du‑Sud)."
-    },
-    {
-      "name": "Naissance de Napoléon Bonaparte",
-      "description": "Napoléon Bonaparte est né le 15 août 1769 à Ajaccio, en Corse."
-    },
-    {
-      "name": "Tragédie de Furiani",
-      "description": "Effondrement d’une tribune au stade Armand‑Cesari le 5 mai 1992 en Corse (ville : Furiani, près de Bastia)."
+      "name": "Palais des Papes",
+      "description": "Situé à Avignon, c'est le plus grand palais gothique du monde. Résidence des papes au XIVe siècle."
     }
   ],
   "B1": [
     {
-      "name": "Bataille de Formigny",
-      "description": "Victoire française de 1450 en Normandie, prélude à la reconquête de la guerre de Cent Ans (commune : Formigny‑la‑Bataille)."
-    },
-    {
-      "name": "Cherbourg",
-      "description": "Ville portuaire de la Manche, importante base navale et terminal transmanche (Cherbourg‑en‑Cotentin)."
-    },
-    {
-      "name": "Débarquement américain à Omaha Beach",
-      "description": "Le 6 juin 1944, les troupes américaines débarquent sur la plage d’Omaha, en Normandie (Vierville-sur-Mer et Saint-Laurent-sur-Mer)."
-    },
-    {
-      "name": "Première escale du Titanic",
-      "description": "Le RMS Titanic fit escale à Cherbourg-en-Cotentin le 10 avril 1912 pour embarquer des passagers."
+      "name": "Château de Chambord",
+      "description": "Chef-d'œuvre de la Renaissance française, construit sous François Ier. Son escalier à double révolution est attribué à Léonard de Vinci."
     }
   ],
   "B2": [
     {
-      "name": "Deauville",
-      "description": "Station balnéaire normande réputée pour ses Planches et son festival du cinéma américain."
-    },
-    {
-      "name": "Forêt de Brocéliande",
-      "description": "Forêt légendaire associée au cycle arthurien, localisée autour de Paimpont (Ille‑et‑Vilaine)."
-    },
-    {
-      "name": "Lieu de naissance de Guillaume le Conquérant",
-      "description": "Guillaume le Conquérant naît à Falaise vers 1027 (ville : Falaise)."
-    },
-    {
-      "name": "Mont Saint-Michel",
-      "description": "Abbaye bénédictine sur un îlot rocheux à la frontière Normandie‑Bretagne."
-    },
-    {
-      "name": "Première ville française libérée en 1944",
-      "description": "Bayeux fut l’une des premières villes libérées après le Débarquement (ville : Bayeux)."
-    },
-    {
-      "name": "Rennes",
-      "description": "Capitale de la Bretagne, connue pour ses maisons à pans de bois et sa vie étudiante."
-    },
-    {
-      "name": "Saint-Malo",
-      "description": "Cité corsaire d’Ille‑et‑Vilaine, fortifiée face à la Manche."
-    },
-    {
-      "name": "Village des irréductibles Gaulois",
-      "description": "Erquy est souvent cité comme inspiration du village d’Astérix sur la côte bretonne (ville : Erquy)."
+      "name": "Pont du Gard",
+      "description": "Aqueduc romain construit au Ier siècle pour alimenter Nîmes en eau. Monument antique le mieux conservé de France."
     }
   ],
   "B3": [
     {
-      "name": "Appel du pape pour la 1ère croisade",
-      "description": "Le pape Urbain II prêche la première croisade au concile de Clermont en 1095 (ville : Clermont‑Ferrand)."
-    },
-    {
-      "name": "Capitale de la porcelaine en France",
-      "description": "Limoges est réputée pour sa porcelaine fine depuis le XVIIIe siècle (ville : Limoges)."
-    },
-    {
-      "name": "Châteauroux",
-      "description": "Ville de l’Indre, connue pour sa base aérienne et sa proximité avec la Brenne."
-    },
-    {
-      "name": "Création de l'entreprise Michelin",
-      "description": "L’entreprise Michelin naît à Clermont‑Ferrand à la fin du XIXe siècle (ville : Clermont‑Ferrand)."
-    },
-    {
-      "name": "Edit qui met fin aux guerres de religion",
-      "description": "L’édit de Nantes de 1598 met fin aux guerres de Religion (ville : Nantes)."
-    },
-    {
-      "name": "Festival du Printemps de Bourges",
-      "description": "Grand festival de musiques actuelles organisé chaque année à Bourges (Cher)."
-    },
-    {
-      "name": "Le Puydufou",
-      "description": "Parc à thèmes historique aux Epesses (Vendée), renommé pour ses grands spectacles immersifs."
-    },
-    {
-      "name": "Limoges",
-      "description": "Capitale de la porcelaine, ville de Haute‑Vienne en Nouvelle‑Aquitaine."
+      "name": "Grotte de Lascaux",
+      "description": "Grotte ornée de peintures préhistoriques datant d'environ 17 000 ans. Découverte en 1940, elle est fermée au public mais une réplique est visitable."
     }
   ],
   "B4": [
     {
-      "name": "Aurillac",
-      "description": "Préfecture du Cantal, connue pour son festival international de théâtre de rue."
-    },
-    {
-      "name": "Cahors",
-      "description": "Ville du Lot sur le méandre du Lot, connue pour son Pont Valentré et son vin AOC."
-    },
-    {
-      "name": "Capitale de la France en 1870, 1914 et 1940",
-      "description": "Bordeaux fut capitale provisoire de la France lors de crises nationales en 1870, 1914 et 1940 (ville : Bordeaux)."
-    },
-    {
-      "name": "Fin de la guerre de 100 ans avec la bataille du Castillon",
-      "description": "En 1453, la bataille de Castillon marque la fin de la guerre de Cent Ans en Guyenne (proche de Castillon‑la‑Bataille)."
-    },
-    {
-      "name": "Grotte des merveilles",
-      "description": "Grotte ornée à Rocamadour dans le Lot, avec peintures préhistoriques (ville : Rocamadour)."
-    },
-    {
-      "name": "Montauban",
-      "description": "Ville du Tarn‑et‑Garonne sur le Tarn, au riche patrimoine en brique."
-    },
-    {
-      "name": "Plus grand volcan de France",
-      "description": "Le massif du Cantal est l’un des plus vastes volcans d’Europe (région : Auvergne)."
-    },
-    {
-      "name": "Rocamadour",
-      "description": "Village vertigineux du Lot, haut lieu de pèlerinage bâtis à flanc de falaise."
+      "name": "Carcassonne",
+      "description": "Cité médiévale fortifiée dans l'Aude. Ses remparts et son château font d'elle la plus grande forteresse d'Europe."
     }
   ],
   "B5": [
     {
-      "name": "Arrivée du chocolat en France",
-      "description": "Bayonne est un haut lieu historique du chocolat, introduit par des communautés ibériques au XVIIe siècle (ville : Bayonne)."
-    },
-    {
-      "name": "Bayonne",
-      "description": "Ville basque des Pyrénées‑Atlantiques, réputée pour son jambon et son chocolat."
-    },
-    {
-      "name": "Biarritz",
-      "description": "Station balnéaire des Pyrénées-Atlantiques, réputée pour le surf et l’architecture du Second Empire."
-    },
-    {
-      "name": "Championnat du monde de surf en 2017",
-      "description": "Biarritz a accueilli en 2017 les Mondiaux de surf sur la Grande Plage (ville : Biarritz)."
-    },
-    {
-      "name": "Le Hestiv'Oc",
-      "description": "Festival d’été célébrant les cultures d’Oc et du Béarn à Pau (ville : Pau)."
-    },
-    {
-      "name": "Lieu de naissance d'Henri IV",
-      "description": "Henri IV naît à Pau en 1553 (ville : Pau)."
-    },
-    {
-      "name": "Lourdes",
-      "description": "Ville des Hautes‑Pyrénées, célèbre pour les apparitions mariales et les pèlerinages."
-    },
-    {
-      "name": "Rocher de la Vierge",
-      "description": "Promontoire emblématique de Biarritz offrant une vue sur la côte basque (ville : Biarritz)."
+      "name": "Arènes de Nîmes",
+      "description": "Amphithéâtre romain construit vers l'an 100. L'un des mieux conservés du monde romain, il accueille encore des spectacles aujourd'hui."
     }
   ],
   "C1": [
     {
-      "name": "Calais",
-      "description": "Calais est une ville portuaire du Pas-de-Calais, face à Douvres, connue pour son port et le tunnel sous la Manche."
-    },
-    {
-      "name": "Compiègne",
-      "description": "Ville de l’Oise, célèbre pour son château et la clairière de l’Armistice."
-    },
-    {
-      "name": "Dunkerque",
-      "description": "Grand port du Nord, associé à l’évacuation de 1940 et à son carnaval."
-    },
-    {
-      "name": "Falaise d'Etretat",
-      "description": "Falaises crayeuses spectaculaires sur la côte d’Albâtre en Normandie (ville : Étretat)."
-    },
-    {
-      "name": "Le Havre",
-      "description": "Grand port et ville reconstruite par Auguste Perret après 1945, classée au patrimoine mondial (Seine‑Maritime)."
-    },
-    {
-      "name": "Opération Dynamo",
-      "description": "Évacuation des forces alliées depuis Dunkerque vers l’Angleterre en mai-juin 1940 (ville : Dunkerque)."
-    },
-    {
-      "name": "Plus grand port français",
-      "description": "Marseille est le plus grand port français, principal port de Méditerranée (ville : Marseille)."
-    },
-    {
-      "name": "Procès de Jeanne d'Arc",
-      "description": "Le procès et le supplice de Jeanne d’Arc ont lieu à Rouen en 1431 (ville : Rouen)."
+      "name": "Cathédrale de Reims",
+      "description": "Lieu de sacre des rois de France pendant plus de 1000 ans. Chef-d'œuvre de l'art gothique."
     }
   ],
   "C2": [
     {
-      "name": "Anciennement \"Lutèce\"",
-      "description": "Lutèce est l’ancien nom de Paris à l’époque gallo‑romaine (ville : Paris)."
-    },
-    {
-      "name": "Chateau de Chambord",
-      "description": "Chef‑d’œuvre de la Renaissance en Sologne, célèbre pour son escalier à double révolution (Loir‑et‑Cher)."
-    },
-    {
-      "name": "Chateau de Fontainebleau",
-      "description": "Résidence royale et impériale en Île‑de‑France, témoin de huit siècles d’histoire."
-    },
-    {
-      "name": "Chateau de Gisors",
-      "description": "Forteresse médiévale du Vexin normand, associée aux légendes templières (ville : Gisors)."
-    },
-    {
-      "name": "La Tour Eiffel",
-      "description": "Monument emblématique de Paris, construit pour l’Exposition universelle de 1889 (ville : Paris)."
-    },
-    {
-      "name": "Libération d'Orléans par Jeanne d'Arc",
-      "description": "En mai 1429, Jeanne d’Arc lève le siège d’Orléans, tournant de la guerre de Cent Ans (ville : Orléans)."
-    },
-    {
-      "name": "Notre-Dame",
-      "description": "La cathédrale Notre-Dame de Paris est un chef-d’œuvre gothique en restauration depuis l’incendie de 2019 (ville : Paris)."
-    },
-    {
-      "name": "Versailles",
-      "description": "Ville des Yvelines célèbre pour son château et ses jardins, symboles de l’absolutisme."
+      "name": "Château de Chenonceau",
+      "description": "Surnommé le 'château des Dames', il enjambe le Cher. Joyau de la Renaissance française."
     }
   ],
   "C3": [
     {
-      "name": "Abbaye de Cluny",
-      "description": "Puissante abbaye bénédictine fondée en 910 en Saône‑et‑Loire (ville : Cluny)."
-    },
-    {
-      "name": "Alésia",
-      "description": "Site de la bataille entre César et Vercingétorix, près d’Alise‑Sainte‑Reine en Côte‑d’Or."
-    },
-    {
-      "name": "Bourges",
-      "description": "Ville du Cher réputée pour sa cathédrale Saint‑Étienne et son festival Le Printemps de Bourges."
-    },
-    {
-      "name": "Clermont",
-      "description": "Clermont-Ferrand, grande ville d’Auvergne, dominée par la chaîne des Puys et sa cathédrale en pierre de lave."
-    },
-    {
-      "name": "Dijon",
-      "description": "Capitale historique de la Bourgogne, connue pour sa moutarde et son patrimoine des ducs."
-    },
-    {
-      "name": "Fête des Lumières",
-      "description": "Événement annuel emblématique de Lyon autour d’illuminations et installations (ville : Lyon)."
-    },
-    {
-      "name": "Gergovie",
-      "description": "Plateau près de Clermont‑Ferrand, site d’une victoire gauloise sur César."
-    },
-    {
-      "name": "Lyon",
-      "description": "Grande métropole au confluent du Rhône et de la Saône, capitale gastronomique."
+      "name": "Basilique du Sacré-Cœur",
+      "description": "Située au sommet de la butte Montmartre à Paris, construite entre 1875 et 1914. Son dôme offre une vue panoramique sur Paris."
     }
   ],
   "C4": [
     {
-      "name": "Avignon",
-      "description": "Ville du Vaucluse célèbre pour son pont, son palais des Papes et son festival."
-    },
-    {
-      "name": "Cathédrale Saint-Apollinaire",
-      "description": "Cathédrale principale de Valence dans la Drôme (ville : Valence)."
-    },
-    {
-      "name": "Grenoble",
-      "description": "Capitale des Alpes françaises, pôle scientifique et universitaire."
-    },
-    {
-      "name": "Grotte de Lascaux",
-      "description": "À Montignac-Lascaux (Dordogne), célèbre pour ses peintures pariétales paléolithiques."
-    },
-    {
-      "name": "Le plus grand festival de théâtre",
-      "description": "Le Festival d’Avignon est le plus grand rendez‑vous de théâtre en France (ville : Avignon)."
-    },
-    {
-      "name": "Pont du Gard",
-      "description": "Aqueduc romain à trois niveaux près de Nîmes, classé au patrimoine mondial."
-    },
-    {
-      "name": "Stade Geoffroy-Guichard",
-      "description": "Stade emblématique de l’AS Saint‑Étienne, dans la Loire (ville : Saint‑Étienne)."
-    },
-    {
-      "name": "Viaduc de Millau",
-      "description": "Plus haut pont routier de France enjambant la vallée du Tarn, dans l’Aveyron (ville : Millau)."
+      "name": "Château d'If",
+      "description": "Forteresse située sur une île au large de Marseille. Rendue célèbre par le roman 'Le Comte de Monte-Cristo' d'Alexandre Dumas."
     }
   ],
   "C5": [
     {
-      "name": "Ancienne capitale du royaume de Majorque",
-      "description": "Perpignan fut la capitale continentale du royaume de Majorque au XIIIe siècle (ville : Perpignan)."
-    },
-    {
-      "name": "Basilique Saint-Cernin",
-      "description": "Grande basilique romane de Toulouse, étape majeure des chemins de Saint‑Jacques (ville : Toulouse)."
-    },
-    {
-      "name": "Chateau de Montségur",
-      "description": "Forteresse cathare perchée dans l’Ariège, symbole du catharisme (commune : Montségur)."
-    },
-    {
-      "name": "Cité de Carcassonne",
-      "description": "Ville fortifiée médiévale remarquable, classée au patrimoine mondial de l’UNESCO (ville : Carcassonne)."
-    },
-    {
-      "name": "Cité de l'Espace",
-      "description": "Parc à thème scientifique dédié à l’astronautique à Toulouse (ville : Toulouse)."
-    },
-    {
-      "name": "La \"Ville Rose\"",
-      "description": "Surnom de Toulouse, dû aux briques de terre cuite qui colorent ses façades (ville : Toulouse)."
-    },
-    {
-      "name": "Perpignan",
-      "description": "Ville catalane des Pyrénées‑Orientales, ancienne capitale du royaume de Majorque."
-    },
-    {
-      "name": "Toulouse",
-      "description": "Grande métropole d’Occitanie, pôle aéronautique européen."
+      "name": "Palais des Beaux-Arts de Lille",
+      "description": "L'un des plus grands musées de France après le Louvre. Collection exceptionnelle de peintures européennes."
     }
   ],
   "D1": [
     {
-      "name": "\"L'Athènes du Nord\"",
-      "description": "Surnom donné à Valenciennes au XIXe siècle pour son foisonnement artistique (ville : Valenciennes)."
-    },
-    {
-      "name": "Bataille de Sedan",
-      "description": "Défaite française décisive en 1870 puis percée allemande en 1940 autour de Sedan, dans les Ardennes."
-    },
-    {
-      "name": "Charlesville-Mézière",
-      "description": "Chef‑lieu des Ardennes, ville natale d’Arthur Rimbaud (Charleville‑Mézières)."
-    },
-    {
-      "name": "Festival Séries Mania",
-      "description": "Festival international des séries télévisées organisé principalement à Lille (ville : Lille)."
-    },
-    {
-      "name": "Lieu de naissance de Charles de Gaulle",
-      "description": "Charles de Gaulle est né à Lille en 1890 (ville : Lille)."
-    },
-    {
-      "name": "Lille",
-      "description": "Grande métropole des Hauts‑de‑France, proche de la Belgique, au riche patrimoine industriel et culturel."
-    },
-    {
-      "name": "Plus grande braderie du monde",
-      "description": "La Braderie de Lille rassemble chaque année des millions de visiteurs (ville : Lille)."
-    },
-    {
-      "name": "Roubaix",
-      "description": "Roubaix, dans le Nord, ancienne capitale textile, est réputée pour La Piscine – Musée d’art et d’industrie."
+      "name": "Cathédrale de Strasbourg",
+      "description": "Chef-d'œuvre de l'art gothique avec sa flèche unique de 142 mètres. Son horloge astronomique est célèbre dans le monde entier."
     }
   ],
   "D2": [
     {
-      "name": "Baptême de Clovis",
-      "description": "Vers 496, le roi Clovis est baptisé par l’évêque Rémi à Reims (ville : Reims)."
-    },
-    {
-      "name": "Basilique de Vézelay",
-      "description": "Haut lieu de pèlerinage et chef‑d’œuvre roman sur la colline éternelle (Yonne)."
-    },
-    {
-      "name": "Bataille de Valmy",
-      "description": "Victoire française fondatrice le 20 septembre 1792, près de Valmy dans la Marne."
-    },
-    {
-      "name": "Fuite de Louis XVI",
-      "description": "L’épisode de Varennes en juin 1791 marque la tentative de fuite de la famille royale (ville : Varennes‑en‑Argonne)."
-    },
-    {
-      "name": "Reims",
-      "description": "Ville champenoise du sacre des rois, marquée par sa cathédrale et la libération de 1945."
-    },
-    {
-      "name": "Signature de la capitulation allemande en 1945",
-      "description": "L’acte de capitulation allemande est signé à Reims le 7 mai 1945 (ville : Reims)."
-    },
-    {
-      "name": "Troyes",
-      "description": "Ville médiévale de l’Aube, célèbre pour son centre en « bouchon de champagne »."
-    },
-    {
-      "name": "Verdun",
-      "description": "Ville de la Meuse marquée par la bataille de 1916 durant la Première Guerre mondiale."
+      "name": "Château de Fontainebleau",
+      "description": "Résidence des souverains français depuis François Ier jusqu'à Napoléon III. Témoin de huit siècles d'histoire de France."
     }
   ],
   "D3": [
     {
-      "name": "\"La Venise des Alpes\"",
-      "description": "Surnom donné à Annecy en raison de ses canaux et du lac (ville : Annecy)."
-    },
-    {
-      "name": "(anciennement) Lugdunum",
-      "description": "Lugdunum est l’ancien nom de Lyon, métropole historique des Gaules (ville : Lyon)."
-    },
-    {
-      "name": "Belfort",
-      "description": "Ville du Territoire de Belfort, célèbre pour le Lion de Bartholdi."
-    },
-    {
-      "name": "Cité Internationale de la Gastronomie et",
-      "description": "La Cité internationale de la gastronomie et du vin met en valeur le repas gastronomique des Français (ville : Dijon)."
-    },
-    {
-      "name": "Création de l'entreprise Peugeot",
-      "description": "Les origines industrielles de Peugeot sont à Valentigney et Sochaux dans le pays de Montbéliard (Doubs)."
-    },
-    {
-      "name": "Festival du Film d'Animation",
-      "description": "Le Festival international du film d’animation se tient à Annecy (ville : Annecy)."
-    },
-    {
-      "name": "Lac d'Annecy",
-      "description": "Lac alpin réputé pour ses eaux claires et ses activités nautiques (ville : Annecy)."
-    },
-    {
-      "name": "Lieu de naissance de Victor Hugo",
-      "description": "Victor Hugo naît à Besançon en 1802 (ville : Besançon)."
+      "name": "Abbaye du Mont-Saint-Michel",
+      "description": "Merveille de l'Occident, cette abbaye bénédictine domine la baie. Lieu de pèlerinage depuis le Moyen Âge."
     }
   ],
   "D4": [
     {
-      "name": "\"La Cité des Ducs\"",
-      "description": "Surnom partagé par Dijon et Nantes ; il renvoie ici le plus souvent à Dijon, ancienne capitale des ducs de Bourgogne."
-    },
-    {
-      "name": "Ancienne Capitale du Dauphiné",
-      "description": "Grenoble fut l’ancienne capitale du Dauphiné, province historique des Alpes (ville : Grenoble)."
-    },
-    {
-      "name": "Briançon",
-      "description": "Ville fortifiée des Hautes‑Alpes, inscrite au patrimoine mondial pour l’œuvre de Vauban."
-    },
-    {
-      "name": "Chambéry",
-      "description": "Ville savoyarde, ancienne capitale des États de Savoie."
-    },
-    {
-      "name": "Chateau des ducs de Savoie",
-      "description": "Ancienne résidence des ducs de Savoie, au cœur de Chambéry (ville : Chambéry)."
-    },
-    {
-      "name": "Gap",
-      "description": "Préfecture des Hautes‑Alpes, ville de montagne ensoleillée."
-    },
-    {
-      "name": "Palais des Papes",
-      "description": "À Avignon, plus vaste palais gothique médiéval, résidence pontificale au XIVe siècle (ville : Avignon)."
-    },
-    {
-      "name": "Plus grande station de Ski au monde",
-      "description": "Les 3 Vallées forment le plus vaste domaine skiable relié du monde (Savoie : Courchevel, Méribel, Val Thorens)."
+      "name": "Château de Villandry",
+      "description": "Célèbre pour ses jardins Renaissance à la française, considérés parmi les plus beaux d'Europe."
     }
   ],
   "D5": [
     {
-      "name": "(anciennement) Massalia",
-      "description": "Massalia est l’ancien nom grec de Marseille (ville : Marseille)."
-    },
+      "name": "Basilique de Vézelay",
+      "description": "Haut lieu de la chrétienté médiévale, point de départ d'un des chemins de Saint-Jacques-de-Compostelle."
+    }
+  ],
+  "E1": [
     {
-      "name": "Aix-en-Provence",
-      "description": "Ville d’art et d’eaux en Provence, associée au peintre Paul Cézanne."
-    },
-    {
-      "name": "Béziers",
-      "description": "Ville de l’Hérault, connue pour ses arènes et le canal du Midi."
-    },
-    {
-      "name": "Départ de la Grande Peste",
-      "description": "L’épidémie de peste noire parvient en 1347 par le port de Marseille (ville : Marseille)."
-    },
-    {
-      "name": "Lieu de naissance de Paul Cézanne",
-      "description": "Le peintre Paul Cézanne est né à Aix‑en‑Provence en 1839 (ville : Aix‑en‑Provence)."
-    },
-    {
-      "name": "Lieu principal d'inspiration de Van Gogh",
-      "description": "Arles inspira fortement Vincent van Gogh durant son séjour de 1888‑1889 (ville : Arles)."
-    },
-    {
-      "name": "Marseille",
-      "description": "Plus ancienne grande ville de France, fondée par les Grecs sous le nom de Massalia."
-    },
-    {
-      "name": "Montpellier",
-      "description": "Grande ville du Languedoc, dynamique et étudiante, proche de la Méditerranée."
+      "name": "Château de Pierrefonds",
+      "description": "Château médiéval restauré par Viollet-le-Duc au XIXe siècle. Exemple remarquable de l'architecture néo-gothique."
     }
   ],
   "E2": [
     {
-      "name": "Capitale des Médiomatriques",
-      "description": "Métz fut la capitale du peuple gaulois des Médiomatriques (ville : Metz)."
-    },
-    {
-      "name": "Colmar",
-      "description": "Ville alsacienne réputée pour son centre historique et la Petite Venise."
-    },
-    {
-      "name": "Metz",
-      "description": "Préfecture de la Moselle, célèbre pour sa cathédrale Saint-Étienne et son patrimoine médiéval."
-    },
-    {
-      "name": "Metz",
-      "description": "Ville lorraine à la cathédrale lumineuse surnommée « lanterne du Bon Dieu »."
-    },
-    {
-      "name": "Nancy",
-      "description": "Capitale historique des ducs de Lorraine, célèbre pour sa Place Stanislas."
-    },
-    {
-      "name": "Plus grand marché de Noël de France",
-      "description": "Strasbourg revendique le plus vaste et ancien marché de Noël en France (ville : Strasbourg)."
-    },
-    {
-      "name": "Siège du Parlement Européen",
-      "description": "Le Parlement européen siège en grande partie à Strasbourg (ville : Strasbourg)."
-    },
-    {
-      "name": "Strasbourg",
-      "description": "Capitale de l’Alsace et siège de plusieurs institutions européennes."
+      "name": "Palais Idéal du Facteur Cheval",
+      "description": "Monument unique construit par un facteur pendant 33 ans (1879-1912). Chef-d'œuvre de l'architecture naïve."
     }
   ],
   "E3": [
     {
-      "name": "Besançon",
-      "description": "Ville du Doubs ceinturée par la boucle du Doubs et la citadelle de Vauban."
-    },
-    {
-      "name": "Mont-Blanc",
-      "description": "Point culminant des Alpes (4 808 m), dominant la vallée de Chamonix."
+      "name": "Château de Haut-Kœnigsbourg",
+      "description": "Château fort alsacien perché à 757 mètres d'altitude. Restauré au début du XXe siècle, il offre une vue imprenable sur la plaine d'Alsace."
     }
   ],
   "E4": [
     {
-      "name": "Jeux Olympiques d'hiver de 1992",
-      "description": "Jeux d’Albertville et des Savoie, derniers JO d’hiver avant l’alternance avec les Jeux d’été (ville principale : Albertville)."
-    },
-    {
-      "name": "La plus haute ville de France",
-      "description": "Briançon, dans les Hautes‑Alpes, est souvent citée comme la plus haute ville de France (~1 325 m)."
+      "name": "Citadelle de Besançon",
+      "description": "Chef-d'œuvre de Vauban, ingénieur militaire de Louis XIV. Inscrite au patrimoine mondial de l'UNESCO."
     }
   ],
   "E5": [
     {
-      "name": "1er club de Zinedine Zidane",
-      "description": "Zinédine Zidane a débuté en club à l’AS Cannes (ville : Cannes)."
-    },
-    {
-      "name": "Anciennement \"Nikaïa\"",
-      "description": "Nikaïa est l’ancien nom de Nice, fondée par les Grecs (ville : Nice)."
-    },
-    {
-      "name": "Nice",
-      "description": "Grande ville de la Côte d’Azur, au bord de la baie des Anges."
-    },
-    {
-      "name": "Plus grand festival de cinéma",
-      "description": "Le Festival de Cannes est le plus prestigieux festival de cinéma en France (ville : Cannes)."
-    },
-    {
-      "name": "Promenade des Anglais",
-      "description": "Boulevard côtier emblématique de Nice, longeant la baie des Anges (ville : Nice)."
-    },
-    {
-      "name": "Retour de Napoléon de l'île d'Elbe",
-      "description": "Le 1er mars 1815, Napoléon débarque à Golfe-Juan après l’exil à l’île d’Elbe, amorçant les Cent-Jours (lieu : Golfe-Juan)."
-    },
-    {
-      "name": "Saint Tropez",
-      "description": "Station balnéaire varoise iconique de la Côte d’Azur, connue pour son vieux port et ses plages."
-    },
-    {
-      "name": "Toulon",
-      "description": "Grand port militaire du Var sur la Méditerranée."
+      "name": "Château d'Angers",
+      "description": "Forteresse médiévale abritant la célèbre Tenture de l'Apocalypse, le plus grand ensemble de tapisseries médiévales au monde."
     }
   ]
 }

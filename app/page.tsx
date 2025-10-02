@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <main className="min-h-screen">
       {/* Hero Section */}
-      <section className="container flex items-center py-20 md:py-32 min-h-[calc(100vh-80px)]">
+      <section className="container mx-auto flex items-center py-20 md:py-32 min-h-[calc(100vh-80px)] px-4">
         <div className="mx-auto max-w-4xl text-center">
           <div className="mb-6 flex justify-center">
             <div className="rounded-full bg-card p-4">
@@ -92,7 +92,7 @@ export default function HomePage() {
 
       {/* Features Section */}
       <section className="border-t bg-muted/50 py-20">
-        <div className="container">
+        <div className="container mx-auto px-4">
           <div className="mx-auto max-w-5xl">
             <h2 className="mb-12 text-center font-[family-name:var(--font-space-grotesk)] text-3xl font-bold">
               Comment jouer ?

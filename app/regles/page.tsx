@@ -1,7 +1,7 @@
 export default function ReglesPage() {
   return (
     <main className="min-h-screen py-12">
-      <div className="container">
+      <div className="container mx-auto px-4">
         <div className="mx-auto max-w-4xl">
           <h1 className="mb-8 font-[family-name:var(--font-space-grotesk)] text-4xl font-bold text-center">
             Règles du jeu
