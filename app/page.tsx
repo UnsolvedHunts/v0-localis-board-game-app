@@ -37,8 +37,8 @@ export default function HomePage() {
           </h1>
 
           <p className="mb-8 text-lg text-muted-foreground text-pretty md:text-xl leading-relaxed">
-            Découvrez l'histoire de France à travers un jeu de société éducatif et passionnant. Positionnez des lieux et
-            événements historiques sur une carte de France et testez vos connaissances !
+            Un jeu de société qui mêle géographie et histoire de France. Découvrez, replacez et apprenez des lieux et
+            monuments emblématiques tout en jouant !
           </p>
 
           <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
@@ -106,10 +106,10 @@ export default function HomePage() {
                   </div>
                 </div>
                 <h3 className="mb-2 font-[family-name:var(--font-space-grotesk)] text-xl font-semibold">
-                  Découvrez les lieux
+                  Choisir une carte
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Explorez 25 cases contenant des lieux historiques emblématiques de France
+                  Sélectionnez une des 5 cartes de la rivière avec des lieux historiques emblématiques
                 </p>
               </div>
 
@@ -120,10 +120,10 @@ export default function HomePage() {
                   </div>
                 </div>
                 <h3 className="mb-2 font-[family-name:var(--font-space-grotesk)] text-xl font-semibold">
-                  Positionnez-les
+                  Placer la carte
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Placez chaque lieu sur la carte de France selon vos connaissances
+                  Choisissez une case sur le plateau et retournez la carte pour vérifier
                 </p>
               </div>
 
@@ -134,10 +134,10 @@ export default function HomePage() {
                   </div>
                 </div>
                 <h3 className="mb-2 font-[family-name:var(--font-space-grotesk)] text-xl font-semibold">
-                  Gagnez des points
+                  Gagner des points
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Plus vous êtes précis, plus vous marquez de points !
+                  Gagnez 1 à 3 points selon la difficulté. Premier à 15 points gagne !
                 </p>
               </div>
             </div>

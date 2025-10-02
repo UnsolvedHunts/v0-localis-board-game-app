@@ -7,14 +7,14 @@ import locationsData from "@/data/locations.json"
 
 type CellId = keyof typeof locationsData
 
-const rows = ["A", "B", "C", "D", "E"]
-const cols = [1, 2, 3, 4, 5]
+const rows = [1, 2, 3, 4, 5]
+const cols = ["A", "B", "C", "D", "E"]
 
 export function GameGrid() {
   const [selectedCell, setSelectedCell] = useState<CellId | null>(null)
 
-  const getCellId = (row: string, col: number): CellId => {
-    return `${row}${col}` as CellId
+  const getCellId = (col: string, row: number): CellId => {
+    return `${col}${row}` as CellId
   }
 
   const handleCellClick = (cellId: CellId) => {
@@ -31,7 +31,7 @@ export function GameGrid() {
         <div className="grid grid-cols-5 gap-3 md:gap-4 max-w-4xl w-full mx-auto">
           {rows.map((row) =>
             cols.map((col) => {
-              const cellId = getCellId(row, col)
+              const cellId = getCellId(col, row)
               const locations = locationsData[cellId]
               const locationCount = locations?.length || 0
 
