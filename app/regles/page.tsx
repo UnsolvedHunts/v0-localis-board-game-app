@@ -12,8 +12,16 @@ export default function ReglesPage() {
               Découvrez comment jouer à Localis en vidéo
             </p>
 
-            <div className="aspect-video w-full overflow-hidden rounded-lg bg-muted flex items-center justify-center">
-              <p className="text-muted-foreground">Vidéo de présentation prochainement disponible</p>
+            <div className="aspect-video w-full overflow-hidden rounded-lg">
+              <iframe
+                width="100%"
+                height="100%"
+                src="https://www.youtube.com/embed/uyooGy_Y8pQ"
+                title="Règles de Localis"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                className="border-0"
+              />
             </div>
           </div>
 
