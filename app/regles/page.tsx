@@ -16,7 +16,7 @@ export default function ReglesPage() {
               <iframe
                 width="100%"
                 height="100%"
-                src="https://www.youtube.com/embed/uyooGy_Y8pQ"
+                src="https://www.youtube.com/embed/wSuJW05oWgU"
                 title="Règles de Localis"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
